@@ -1,1 +1,1 @@
-var hogehoge = "foobar";
+var hogehoge = "hoge";
